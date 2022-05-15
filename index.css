@@ -37,9 +37,13 @@
     background-image: url(../img/collection/spring-collection-background.jpg);
     background-size: cover;
     padding: 100px 24px;
-    background-position: 40.63% 51.66%;
+    background-position: 53% 51.66%;
     background-attachment: fixed;
     width: 100%;
+}
+
+.springcollection {
+
 }
 
 /*furniture collections*/
@@ -128,6 +132,20 @@
 .springcollection__button {
     background-color: var(--brand-accent-color);
     margin-top: 35px;
+    text-align: center;
+    border-radius: 5px;
+    width: 154.188px;
+    padding: 20px 30px;
+}
+
+.collection-link-button {
+    display: block;
+    color: var(--background-light-color);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: Hind, sans-serif;
+    line-height: 12px;
 }
 
 
