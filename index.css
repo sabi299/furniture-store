@@ -1,0 +1,134 @@
+/*Sabina's css start*/
+
+/* spring collection*/
+
+.springcollection__2020 {
+    display: block;
+    color: var(--brand-accent-color);
+}
+
+.springcollection__header-h2 {
+    font-size: 58px;
+    font-weight: 700;
+    width: 100%;
+    line-height: 63.8px;
+    overflow-wrap: break-word;
+    letter-spacing: 0;
+}
+
+.collection2020 {
+    max-width: 1200px;
+    color: var(--text-header-color);
+    padding: 90px 0;
+}
+
+.springcollection__subheader-p {
+    margin-top: 35px;
+    font-size: 18px;
+}
+
+.springcollection-block-content {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: 100%;
+}
+
+.springcollection-2020 {
+    background-image: url(../img/collection/spring-collection-background.jpg);
+    background-size: cover;
+    padding: 100px 24px;
+    background-position: 40.63% 51.66%;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+/*furniture collections*/
+
+.furniturecollection {
+    background-size: cover;
+    background-position: 10% 47.57%;
+}
+
+.furniture {
+    padding: 0 24px;
+    margin-top: 90px;
+}
+
+ .colorful {
+    background-image: url(../img/collection/colorful-collection-background.jpg);
+}
+
+ .blackwhite {
+    background-image: url(../img/collection/black-white-collection-background.jpg);
+    margin-top: 50px;
+}
+
+.furniturecollections-block-content {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    padding: 39px 27px;
+}
+
+.furniturecollection__colorful-p {
+    color: var(--colorful-block-text-color);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18.62px;
+    letter-spacing: 0.896px;
+    max-width: 100%;
+}
+
+.furniturecollection__colorful-header {
+    font-size: 22px;
+    line-height: 28.6px;
+    font-weight: 500;
+    color: var(--text-header-color);
+    margin-top: 20px;
+}
+
+.furniturecollection__colorful-subheader {
+    color: var(--plain-text-color);
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    max-width: 100%
+}
+
+.furniturecollection__blackwhite-p {
+    color: var(--black-white-block-text-color);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18.62px;
+    letter-spacing: 0.896px;
+    max-width: 100%;
+}
+
+.furniturecollection__blackwhite-header {
+    font-size: 22px;
+    line-height: 28.6px;
+    font-weight: 500;
+    color: var(--background-light-color);
+    margin-top: 20px;
+}
+
+.furniturecollection__blackwhite-subheader {
+    color: var(--background-light-color);
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    max-width: 100%
+}
+
+/* button */
+
+.springcollection__button {
+    background-color: var(--brand-accent-color);
+    margin-top: 35px;
+}
+
+
+/*Sabina's css end*/
